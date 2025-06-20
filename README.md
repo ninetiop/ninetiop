@@ -30,12 +30,6 @@ Feel free to connect or chat about development practices, AI, or cybersecurity. 
       </a>
         <div style="font-size:14px; margin-top:6px;">LinkedIn</div>
     </td>
-    <td align="center" style="padding: 0 20px; text-align:center;">
-      <a href="https://ninetiop.github.io/" target="_blank" style="text-decoration:none; color:inherit;">
-        <img src="https://img.icons8.com/ios-filled/48/000000/domain.png" alt="Portfolio" />
-        </a>
-        <div style="font-size:14px; margin-top:6px;">Portfolio</div>
-    </td>
   </tr>
 </table>
 
